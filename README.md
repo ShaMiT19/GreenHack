@@ -17,3 +17,5 @@ The custom.py is used for training the dataset and predict.py is used for predic
 For the training and testing of model we used google colab, we first mounted our google drive on google colab and started training the model using the custom.py file. Due to lack of computational power we could not completely train the model. Provided more data and time both the efficiency and accuracy of our model  are sure to increase.
 
 The output of our model would look something like this marking the outline of electrical mast.
+
+Presentation Link for this project : https://www.youtube.com/watch?v=NHjlce2cNF0&list=LL&index=35
